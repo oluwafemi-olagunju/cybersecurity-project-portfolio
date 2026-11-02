@@ -1,6 +1,6 @@
 # Vulnerability Assessment & Management — Two Attack Surfaces, One Engagement
 
-An 8-stage vulnerability assessment conducted end-to-end in an isolated home lab: web application testing, network scanning, a phishing simulation, SIEM deployment with Windows log forensics, and Android mobile application security testing. Completed as a capstone project for the Google Cybersecurity Professional Certificate, presented live to a final review panel.
+An 8-stage vulnerability assessment conducted end-to-end in an isolated home lab: web application testing, network scanning, a phishing simulation, SIEM deployment with Windows log forensics, and Android mobile application security testing. Completed as the capstone project for the Utiva Cybersecurity Bootcamp, presented live to a final review panel.
 
 This repo documents the methodology, findings, and remediation recommendations from each stage — written up the way a real engagement report would be, with the lab credentials, IPs, and any personally identifying details from the phishing test redacted or replaced with placeholders.
 
